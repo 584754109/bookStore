@@ -1,0 +1,1 @@
+<view class="wrapper"><view class="left"><image src="{{a}}" alt="" class="book-img"></image></view><view class="right"><view class="name">{{b}}</view><view class="author">{{c}}</view><view class="price">${{d}}</view></view></view>

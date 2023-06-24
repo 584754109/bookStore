@@ -1,0 +1,1 @@
+<view><view wx:for="{{a}}" wx:for-item="book" wx:key="c"><book-item wx:if="{{book.b}}" class="book" u-i="{{book.a}}" bind:__l="__l" u-p="{{book.b}}"></book-item></view></view>

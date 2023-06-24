@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "书籍列表",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "book-item": "../bookItem/bookItem"
+  }
+}

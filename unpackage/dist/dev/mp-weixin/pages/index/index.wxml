@@ -1,0 +1,1 @@
+<view class="content"><view class="search-container"><input type="text" class="search-input" placeholder="请输入关键字" value="{{a}}" bindinput="{{b}}"/><button class="search-button" bindtap="{{c}}">搜索</button></view></view>
